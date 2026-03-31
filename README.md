@@ -1,2 +1,4 @@
 # vnstock-supabase-bot
-Lấy data vnstock
+vnstock-hq
+supabase
+pandas
